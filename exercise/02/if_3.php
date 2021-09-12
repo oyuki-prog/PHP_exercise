@@ -3,9 +3,9 @@
 $score = 29;
 
 if($score >= 60) {
-  echo '合格です';
+echo '合格です';
 } elseif($score >= 30) {
-  echo '追試です';
+    echo '追試です';
 } else {
-  echo '不合格です';
+    echo '不合格です';
 }
