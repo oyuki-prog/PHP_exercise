@@ -6,5 +6,5 @@ $b = 2;
 if ($a == $b) {
     echo '入力された値は等しいです';
 } else {
-    echo max($a,$b);
+    echo max($a, $b);
 }
